@@ -5,7 +5,7 @@ public class VariableTypes
     public string AnimalName = "cat";
     public char GradeLetter = 'A';
     public int Year = 2026;
-    public double Price = 19.99;
+    public double Height = 19.99;
     public bool IsIndoorPet = true;
 
 
